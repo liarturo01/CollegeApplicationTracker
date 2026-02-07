@@ -15,7 +15,7 @@ College Application Tracker helps students keep track of multiple college applic
 
 ## Tech Stack
 
-* Language: *Java* (or update if different)
+* Language: *Java* 
 * Version Control: Git & GitHub
 
 ## Project Structure
