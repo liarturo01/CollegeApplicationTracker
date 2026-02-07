@@ -11,12 +11,14 @@ College Application Tracker helps students keep track of multiple college applic
 * Track multiple colleges in one centralized list
 * Store application statuses (e.g., Not Started, In Progress, Submitted, Accepted, Rejected)
 * Keep notes for each application
+* Graphical user interface built with JavaFX
 * Simple and readable project structure
 
 ## Tech Stack
 
-* Language: *Java* 
-* Version Control: Git & GitHub
+* Language: **Java**
+* UI Framework: **JavaFX**
+* Version Control: **Git & GitHub**
 
 ## Project Structure
 
@@ -51,3 +53,4 @@ CollegeApplicationTracker/
 ## License
 
 This project is for educational purposes.
+****
